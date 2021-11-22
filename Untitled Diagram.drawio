@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T13:34:24.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="b7f5gEeO7JXCu1YqIiIJ" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T13:40:25.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="dXG3gYpvflOI9WgKZq4-" version="15.8.3" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="1128" dy="608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,8 +87,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lbybOArzGUHNt2XsD-0A-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;ข้อมูลลูกค้า&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="311" y="396" width="86" height="31" as="geometry" />
+        <mxCell id="lbybOArzGUHNt2XsD-0A-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;แสดงรายละเอียดลูกค้า&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="275" y="396" width="159" height="31" as="geometry" />
         </mxCell>
         <mxCell id="lbybOArzGUHNt2XsD-0A-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.466;entryY=1.005;entryDx=0;entryDy=0;exitX=-0.004;exitY=0.165;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" target="lbybOArzGUHNt2XsD-0A-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -149,6 +149,54 @@
         </mxCell>
         <mxCell id="lbybOArzGUHNt2XsD-0A-29" value="&lt;font style=&quot;font-size: 16px&quot;&gt;ข้อมูลการสั่งซื้อ&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="687" y="359" width="111" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lbybOArzGUHNt2XsD-0A-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.013;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lbybOArzGUHNt2XsD-0A-3" target="lbybOArzGUHNt2XsD-0A-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="525" y="613" as="sourcePoint" />
+            <mxPoint x="661" y="593" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="622" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbybOArzGUHNt2XsD-0A-31" value="&lt;font style=&quot;font-size: 16px&quot;&gt;แสดงข้อมูลข่าวสาร&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="661" y="585" width="136" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lbybOArzGUHNt2XsD-0A-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.013;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.802;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lbybOArzGUHNt2XsD-0A-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="622" y="523.96" as="sourcePoint" />
+            <mxPoint x="831.6899999999998" y="635.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="604" y="636" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbybOArzGUHNt2XsD-0A-33" value="&lt;font style=&quot;font-size: 16px&quot;&gt;แสดงข้อมูลลูกค้า&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="669" y="609" width="122" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lbybOArzGUHNt2XsD-0A-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.013;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.687;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lbybOArzGUHNt2XsD-0A-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604.3599999999999" y="521.6" as="sourcePoint" />
+            <mxPoint x="831.6899999999998" y="656.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="584" y="657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbybOArzGUHNt2XsD-0A-35" value="&lt;font style=&quot;font-size: 16px&quot;&gt;แสดงข้อมูลสินค้า&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="669" y="630" width="123" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lbybOArzGUHNt2XsD-0A-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.013;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.581;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lbybOArzGUHNt2XsD-0A-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="583.6600000000001" y="521.24" as="sourcePoint" />
+            <mxPoint x="831.6899999999998" y="677.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="678" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbybOArzGUHNt2XsD-0A-37" value="&lt;font style=&quot;font-size: 16px&quot;&gt;แสดงข้อมูลการสั่งซื้อ&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="657" y="651" width="148" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
